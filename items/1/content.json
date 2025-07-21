@@ -1,0 +1,29 @@
+{
+    "id": "1",
+    "name": "Atomspiel",
+    "description": "Alle bewegen sich nach Musik durch den Raum. Die Spielleitung stoppt die Musik und sagt eine Zahl. Versucht euch entsprechend der Zahl sofort zu Kleingruppen in der richtigen Anzahl zusammenzufinden. Sagt die Spielleitende: \"5\", dann geht ihr zu  fünft zusammen, sagt sie: \"2\", geht ihr zu zweit zusammen.",
+    "categories": [
+        "bewegungsspiel",
+        "musikspiel",
+        "wahrnehmungsspiel"
+    ],
+    "keywords": [
+        "Musik",
+        "Kleingruppenbildung",
+        "Reaktion"
+    ],
+    "numberOfPlayers": [
+        "grossegruppe"
+    ],
+    "durationOfGame": [
+        "mittellang"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen",
+        "drinnen"
+    ],
+    "material": "Handy mit Playlist, Musikanlage"
+}
