@@ -45,7 +45,8 @@ def convert_xlsx_to_json(xlsx_file, output_file, spiel_id):
         json.dump(json_obj, f, indent=4, ensure_ascii=False)
 
 if __name__ == "__main__":
-    if len(sys.argv) != 4:
-        print("Usage: python bin/xlsx_to_json.py <input.xlsx> <output.json> <id>")
+    if len(sys.argv) != 3:
+        print("Usage: python xlsx_to_json.py <input.xlsx> <id>")
         sys.exit(1)
-    convert_xlsx_to_json(sys.argv[1], sys.argv[2], sys.argv[3])
+    newId = sys.argv[2]
+    convert_xlsx_to_json(sys.argv[1], f"items/{newId}/content.json", sys.argv[2])

@@ -1,0 +1,25 @@
+{
+    "id": "2",
+    "name": "Bello-Bello",
+    "description": "Alle Spieler sitzen im Kreis. Einer davon (Bello) sitzt mit geschlossenen Augen in der Mitte und schläft. Sein „Knochen“ (Schlüsselbund oder Glocke) liegt daneben. Der jüngste Spielende versucht, möglichst leise den Knochen zu stehlen, ohne Bello zu wecken und kehrt ganz leise zu seinem Platz zurück. Dann rufen alle Spieler „Bello-Bello, dein Knochen ist weg!“. Bello muss raten, wer ihm den Knochen gestohlen hat. Er darf nur drei Mitspieler danach fragen. Diese müssen ihre Hände öffnen und zeigen, ob sie den Knochen haben. Wenn Bello es schafft, den Dieb mit 3 Fragen zu finden, wird der Dieb zum neuen Bello. Findet er den Dieb nicht, muss er weiter Bello bleiben.",
+    "categories": [
+        "geschicklichkeit",
+        "wahrnehmungsspiel",
+        "einfach"
+    ],
+    "keywords": [
+        "Hund",
+        "Schlüssel",
+        "Klauen"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "mittellang"
+    ],
+    "locations": [
+        "drinnen"
+    ],
+    "material": "Schlüsselbund/ Glocke oder Ähnliches, was ihr als Knochen verwenden könnt"
+}
