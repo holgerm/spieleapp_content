@@ -1,7 +1,7 @@
 {
     "name": "Die heiße Kartoffel",
     "id": "0",
-    "image": "https://holgerm.github.io/spieleapp_content/items/0/media/kartoffel.jpeg",
+    "image": "kartoffel.jpeg",
     "categories": [
         "ballspiel",
         "geschicklichkeit",
