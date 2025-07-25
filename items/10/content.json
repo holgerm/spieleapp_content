@@ -1,0 +1,28 @@
+{
+    "id": "10",
+    "name": "Elektroball",
+    "description": "Du markierst ein Spielfeld, das groß genug ist, dass alle Spielenden darin herumlaufen können.\nWählt zwei Kinder als Werfer aus. Sie bekommen einen Ball und versuchen damit die anderen Kinder abzuwerfen. Wer getroffen wurde, geht aus dem Spielfeld. Die letzten 2 Kinder, die übrig bleiben, werden die neuen Fänger.",
+    "categories": [
+        "ballspiel",
+        "bewegungsspiel",
+        ""
+    ],
+    "keywords": [
+        "Elektro",
+        "Ball",
+        "abwerfen"
+    ],
+    "numberOfPlayers": [
+        "grossegruppe"
+    ],
+    "durationOfGame": [
+        "mittellang"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ],
+    "material": "Markierungen für das Spielfeld  wie Seile, Hütchen, Jacken und zwei weiche Bälle."
+}

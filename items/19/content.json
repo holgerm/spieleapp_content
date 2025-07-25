@@ -1,0 +1,26 @@
+{
+    "id": "19",
+    "name": "Jäger schießt!",
+    "description": "Hier ist Konzentration gefragt!\nEiner von euch sagt an. Bei der Ansage „Der Jäger schießt!“, müssen alle Kinder schnell in die Hocke gehen und unten bleiben. \nWenn der Ansager sagt: „Der Jäger schaut!“, bleiben alle stehen. Oder sie gehen aus der Hocke hoch, wenn sie gerade in der Hocke waren. Wer es falsch macht, scheidet aus. \nWer als letzter übrig bleibt, wird neuer Ansager.",
+    "categories": [
+        "wahrnehmungsspiel",
+        "bewegungsspiel",
+        ""
+    ],
+    "keywords": [
+        "Hocke",
+        "stehen"
+    ],
+    "numberOfPlayers": [
+        "grossegruppe"
+    ],
+    "durationOfGame": [
+        "mittellang"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ]
+}

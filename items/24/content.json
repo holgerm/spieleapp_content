@@ -1,0 +1,28 @@
+{
+    "id": "24",
+    "name": "Kniechen",
+    "description": "Ihr bildet einen Kreis und werft einander den Ball zu. Wenn du den Ball nicht gefangen hast, musst du dich auf ein Knie hinknien. Wenn du beim nächsten Wurf den Ball gefangen hast, darfst du wieder aufstehen. Wenn nicht, dann kniest du dich auf beide Knie hin. Wenn du beim nächsten Wurf den Ball wieder nicht gefangen hast, dann legst du dich auf den Bauch. Wenn einer auf dem Bauch liegt, beginnt das Spiel von vorne. Wichtig dabei ist, dass der Ball nicht zu hoch geworfen werden darf, sondern so, dass er gefangen werden kann.",
+    "categories": [
+        "ballspiel",
+        "geschicklichkeit",
+        ""
+    ],
+    "keywords": [
+        "werfen",
+        "fangen",
+        "knien"
+    ],
+    "numberOfPlayers": [
+        "grossegruppe"
+    ],
+    "durationOfGame": [
+        "mittellang"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ],
+    "material": "Ein Ball."
+}

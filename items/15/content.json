@@ -1,0 +1,22 @@
+{
+    "id": "15",
+    "name": "Giftzwerg",
+    "keywords": [
+        "Sprachspiel"
+    ],
+    "numberOfPlayers": [
+        "2 bis 12"
+    ],
+    "durationOfGame": [
+        "2-3 min pro Spiel",
+        "je nach Länge der Geschichte"
+    ],
+    "weather": [
+        "Frühjahr",
+        "Sommer",
+        "Herbst und Winter"
+    ],
+    "locations": [
+        "Draussen"
+    ]
+}

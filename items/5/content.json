@@ -1,0 +1,26 @@
+{
+    "id": "5",
+    "name": "Bugs Bunny",
+    "description": "Sucht euch jeweils zu zweit einen Platz aus. Stellt euch an den gegenüberliegenden Seiten auf. Dann hüpft ihr aufeinander zu. Beim Hüpfen sagt einer immer „Bugs“ und der andere immer „Bunny“. Wenn ihr ganz nah aneinander seid, versucht ihr den anderen mit der Hand als erster zu berühren. Wer das geschafft hat, hat gewonnen.",
+    "categories": [
+        "bewegungsspiel",
+        "einfach",
+        ""
+    ],
+    "keywords": [
+        "springen"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen",
+        "drinnen"
+    ]
+}

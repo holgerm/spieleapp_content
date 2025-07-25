@@ -1,0 +1,27 @@
+{
+    "id": "3",
+    "name": "Blinde Kuh",
+    "description": "Vereinbart, wo das Spielfeld sein soll.\nEiner von euch ist die Blinde Kuh, macht die Augen zu und dreht sich dreimal im Kreis. Dann geht das Spiel los. Die Blinde Kuh versucht andere Mitspieler zu berühren. Diese dürfen sich innerhalb des begrenzten Spielfeldes frei bewegen. Wenn die Blinde Kuh jemanden gefangen oder berührt hat, wird diese Person zur Blinden Kuh. Falls jemand von euch das Spielfeld verlassen hat, ist er die neue Kuh.\n\nVariante:\nNachtfalter und Fledermaus: \nAlle bilden einen Kreis. Abstand sind eure ausgestreckten Arme. Zwei von euch gehen (als Nachtfalter und Fledermaus) in die Mitte. Die Fledermaus versucht den Nachtfalter zu fangen. Beide haben die Augen geschlossen. Die Fledermaus reibt ihre Hände, wenn sie hören möchte, wo der Nachtfalter ist. Der Nachtfalter muss dann gleich antworten indem er mit seinen Flügeln schlägt (Arme an den Körper schlagen). Seid leise bei dem Spiel damit die beiden in der Mitte die Geräusche gut hören können. Die Fledermaus dreht sich vor Beginn mit geschlossenen Augen. Die Gruppe passt auf, dass die blinden Spieler nicht aus dem Spielfeld laufen indem sie ihre Arme ausstrecken und damit einen Schutz bieten.",
+    "categories": [
+        "wahrnehmungsspiel",
+        "bewegungsspiel",
+        "einfach"
+    ],
+    "keywords": [
+        "blind",
+        "fangen",
+        "verbundene Augen"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "mittellang"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ]
+}

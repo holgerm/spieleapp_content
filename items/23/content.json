@@ -1,0 +1,27 @@
+{
+    "id": "23",
+    "name": "Kirschen gegessen",
+    "description": "Ihr steht im Kreis und werft einen Ball hin und her. Wenn jemand den Ball nicht fängt, muss er sagen „Kirschen gegessen“. Wenn der gleiche Spielende das zweite Mal nicht fängt, sagt er „Wasser getrunken“, beim dritten Mal „Bauchschmerzen bekommen“.\nEs geht weiter mit „Kern geschluckt“ - „Krankenwagen“ - „Spritze bekommen“. Als letztes kommt „Krankenhaus“, und er legt sich auf den Boden oder eine Bank, bis ein zweiter Spielender ins Krankenhaus kommt.",
+    "categories": [
+        "ballspiel",
+        "einfach",
+        ""
+    ],
+    "keywords": [
+        "werfen",
+        "fangen"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "mittellang"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ],
+    "material": "Einen Ball."
+}

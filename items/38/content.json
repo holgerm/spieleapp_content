@@ -1,0 +1,28 @@
+{
+    "id": "38",
+    "name": "Tratzball",
+    "description": "Einer von euch steht in der Mitte. Die zwei anderen stehen vor und hinter ihm. Diese zwei Spieler werfen einander den Ball zu. Der in der Mitte versucht ihn abzufangen. Wenn es ihm gelingt, den Ball zu fangen, wird getauscht und eine neue Runde beginnt.",
+    "categories": [
+        "ballspiel",
+        "bewegungsspiel",
+        ""
+    ],
+    "keywords": [
+        "Ball",
+        "Werfen",
+        "Reaktion"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ],
+    "material": "Ball."
+}

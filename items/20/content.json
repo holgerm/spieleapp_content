@@ -1,0 +1,27 @@
+{
+    "id": "20",
+    "name": "Kameraspiel",
+    "description": "Ihr geht in zweier Gruppen zusammen. Eine Person wird Fotograf, die andere Kamera. Die Kamera nimmt die eine Hand vors Auge, wie ein Objektiv und schließt dann die Augen. Der Fotograf führt dann die Kamera durch das Spielgelände und fotografiert insgesamt 3 Sachen, indem er die Kamera ausrichtet und ihr dann auf die Schulter tippt, um ein Foto zu erstellen. Die Kamera muss dann am Ende erraten, was sie fotografiert hat. Danach tauscht ihr die Rollen.",
+    "categories": [
+        "ratespiel",
+        "wahrnehmungsspiel",
+        "kooperationsspiel"
+    ],
+    "keywords": [
+        "Kamera",
+        "fotografieren"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen",
+        "drinnen"
+    ]
+}

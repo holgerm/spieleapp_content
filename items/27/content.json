@@ -1,0 +1,26 @@
+{
+    "id": "27",
+    "name": "Münzenfangen",
+    "description": "Zuerst legst du deine rechte Hand auf deine linke Schulter. Dabei hebst du den Ellbogen so hoch, bis er parallel zum Boden ist. Dann legst du eine Münze auf den Ellbogen. Danach musst du den Ellbogen „fallen lassen“ und mit der anderen Hand versuchen die Münze zu fangen. Für jede gefangene Münze bekommt man einen Punkt. Es können auch mehrere Runden gespielt werden. Wer am meisten Punkte hat gewinnt.",
+    "categories": [
+        "geschicklichkeit",
+        "einfach",
+        ""
+    ],
+    "keywords": [
+        "Münze",
+        "fangen"
+    ],
+    "numberOfPlayers": [
+        "einzelspieler",
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "locations": [
+        "drinnen",
+        "draußen"
+    ],
+    "material": "Münzen oder Knöpfe"
+}

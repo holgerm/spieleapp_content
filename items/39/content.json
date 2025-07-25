@@ -1,0 +1,27 @@
+{
+    "id": "39",
+    "name": "Verstecken",
+    "description": "Ihr macht aus in welchem Gebiet ihr euch verstecken dürft. Ihr vereinbart wie lange Zeit ist, um sich zu verstecken, bis zwanzig zählen oder eine oder zwei Minuten. Und ihr macht aus, wie lange die Sucher suchen dürfen. Dann wählt ihr eine oder bei größeren Gruppen auch mehrere Sucher aus. Während sich die anderen verstecken, schauen die Sucher weg und zählen laut bis zwanzig, oder schauen auf die Uhr, bis zwei Minuten vorbei sind. Wenn die Zeit um ist, rufen sie laut: „Wir kommen!“ Die entdeckten Spieler werden zum Ausgangspunkt gebracht. Gibt es noch unentdeckte Spielende, haben diese gewonnen. Haben die Suchenden alle entdeckt, haben sie gewonnen.",
+    "categories": [
+        "suchspiel",
+        "bewegungsspiel",
+        "einfach"
+    ],
+    "keywords": [
+        "suchen",
+        "finden"
+    ],
+    "numberOfPlayers": [
+        "grossegruppe"
+    ],
+    "durationOfGame": [
+        "mittellang"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ],
+    "material": "Gelände mit tollen Verstecken."
+}

@@ -1,0 +1,28 @@
+{
+    "id": "36",
+    "name": "Spring Ball",
+    "description": "Einer von euch bekommt den Ball. Die anderen stellen sich ihm gegenüber auf. Der Werfer wirft den Ball vor die Beine eines der gegenüberstehenden Spieler. Dieser muss versuchen, über den Ball zu springen.\nSchafft er es, darüber zu springen, ist der Werfer neu dran. Schafft er es nicht, wird der Spieler zum neuen Werfer.",
+    "categories": [
+        "ballspiel",
+        "bewegungsspiel",
+        "geschicklichkeit"
+    ],
+    "keywords": [
+        "springen",
+        "Ball",
+        "hüpfen"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ],
+    "material": "Ball"
+}

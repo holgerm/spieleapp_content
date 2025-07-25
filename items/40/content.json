@@ -1,0 +1,27 @@
+{
+    "id": "40",
+    "name": "Verstecken - Fangen",
+    "description": "Das ist eine schnelle Mischung aus Verstecken und Fangen. Es wird ausgemacht, was als Spielfeld gilt, also, wo man sich überall verstecken darf. Der Fänger zählt laut bis 10 und darf nicht schauen. Alle anderen verstecken sich blitzschnell. Dann muss der Fänger die anderen Kinder so schnell wie möglich finden und fangen. Gefangen ist man, wenn man mit der Hand berührt wird.",
+    "categories": [
+        "bewegungsspiel",
+        "einfach",
+        ""
+    ],
+    "keywords": [
+        "verstecken",
+        "fangen",
+        "schnell"
+    ],
+    "numberOfPlayers": [
+        "grossegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "17",
+    "name": "Heiß & Kalt",
+    "description": "Zwei von euch lassen sich die Augen verbinden.\nJeder bekommt eine sehende Begleitperson. Dann dreht ihr die beiden Töpfe um. \nEiner von euch beiden „Blinden“ bekommt einen kleinen Holzlöffel. Wenn du in die richtige Richtung gehst, ruft deine sehende Begleitung „kalt“. Wenn du in die falsche Richtung gehst, ruft deine Begleitung „heiß“. \nDer andere Blinde erhält einen großen Holzlöffel. Wenn dieser in die richtige Richtung geht, ruft die sehende Begleitung „heiß“. Wenn er in die falsche Richtung geht, ruft sie „kalt“. \nFür euch beide gelten also unterschiedliche Regeln. Bevor es los geht werdet ihr beide zweimal gedreht. Dann krabbelt ihr über den Boden, tastet ihn mit den Löffeln ab und versucht einen Topf zu finden. Wenn du einen Topf gefunden hast, schlägst du zweimal darauf. Erst dann nimmst du deine Binde ab.",
+    "categories": [
+        "suchspiel",
+        "wahrnehmungsspiel",
+        "einfach"
+    ],
+    "keywords": [
+        "verbundene Augen",
+        "suchen"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "locations": [
+        "drinnen"
+    ],
+    "material": "Zwei Tücher oder Schals, einen großen, einen kleinen Holzlöffel und zwei Töpfe"
+}

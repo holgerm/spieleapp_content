@@ -1,0 +1,30 @@
+{
+    "id": "6",
+    "name": "Chinesische Mauer",
+    "description": "Wählt euch ein Spielfeld aus, auf dem ihr eine Linie festlegt. Die Linie könnt ihr zum Beispiel mit Stöcken oder mit Kreide markieren.\nEiner von euch bleibt auf der Linie stehen und ist Fänger. Die anderen versuchen, immer alle auf einmal, am Fänger vorbeizurennen, ohne gefangen zu werden.\nWer gefangen wird, stellt sich auf der Linie dazu und fängt mit.\nGewonnen hat, wer als letztes noch nicht gefangen ist und startet als Fänger in der nächsten Runde.",
+    "categories": [
+        "bewegungsspiel",
+        "einfach",
+        ""
+    ],
+    "keywords": [
+        "Geburtstag",
+        "laut",
+        "Kindergarten",
+        "Klassiker",
+        "Pausenhof"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ],
+    "material": "Kreide / Seil oder Stöcke für die Linie"
+}

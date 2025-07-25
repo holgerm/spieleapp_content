@@ -1,0 +1,20 @@
+{
+    "id": "26",
+    "name": "Malen einer Ansichtskarte nach Musik",
+    "description": "Jeder hört sich das Musikstück an, wählt drei Farbstifte und malt eine Ansichtskarte von der Landschaft, die ihm beim Zuhören eingefallen ist. Dabei wird das Musikstück noch ein- bis dreimal wiederholt abgespielt. Zum Schluss gibt es eine Ausstellung aller Ansichtskarten.",
+    "categories": [
+        "schreiben_malen",
+        "musikspiel",
+        ""
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "locations": [
+        "drinnen"
+    ],
+    "material": "Farbstifte, Karten oder Malpapier"
+}

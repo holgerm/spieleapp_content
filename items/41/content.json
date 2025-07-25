@@ -1,0 +1,25 @@
+{
+    "id": "41",
+    "name": "Versteinern",
+    "description": "Sucht euch einen oder zwei Fänger aus. Die Menge der Fänger hängt von der Gruppengröße ab. Die anderen bewegen sich frei auf der Spielfläche. \nDie Fänger versuchen, die Spieler zu fangen, indem sie diese mit den Händen leicht berühren. Wenn man berührt wird, ist man „versteinert“. Die „Versteinerten“ bleiben stehen und bewegen sich nicht mehr. Andere Mitspielende können die „Versteinerten“ befreien, indem sie diese berühren. Wer berührt wurde kann wieder weiter mitspielen. Als Fänger versucht ihr alle zu versteinern.",
+    "categories": [
+        "bewegungsspiel",
+        "einfach",
+        ""
+    ],
+    "keywords": [
+        "Fangen"
+    ],
+    "numberOfPlayers": [
+        "grossegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ]
+}

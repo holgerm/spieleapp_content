@@ -1,0 +1,23 @@
+{
+    "id": "4",
+    "name": "Brennball",
+    "description": "Zuerst wird das Spielfeld eingegrenzt. Am Rande dieses Spielfeldes werden die „Bases“ markiert (zum Beispiel mit Jacken). In die Mitte wird ein Hula-Hoop-Reifen gelegt. Es werden zwei Mannschaften gebildet und ein Brennmeister ausgesucht.\nDie zwei Mannschaften stehen an gegenüberliegenden Seiten des Spielfeldes. Der Brennmeister steht in der Mitte des Hula-Hoop-Reifens. \nDie Mannschaften sind abwechselnd an der Reihe. \nDie erste Mannschaft bekommt den Ball. Der erste Läufer wirft den Ball ins Innenfeld und läuft los. Er versucht das Spielfeld zu umrunden und dabei so viele „Bases“ wie möglich zu überlaufen. In dieser Zeit versucht die andere Mannschaft den Ball zu fangen und zum Brennmeister zu werfen. Wichtig dabei ist: die Spieler dürfen nur drei Schritte in Richtung des Brennmeisters machen und müssen dann den Ball zu ihm werfen. Der Brennmeister muss den Ball fangen. Wenn der laufende Spieler merkt, dass der Ball gleich bei dem Brennmeister ist, muss er an einer „Base“ stehen bleiben. So kann er bei dem nächsten Wurf seiner Mannschaft von dieser „Base“ weiter zum Ziel laufen. Wenn er das Spielfeld einmal umrundet hat, erhält seine Mannschaft einen Punkt. Wenn es ihm nicht gelingt, ist er „verbrannt“ und muss zu seiner Mannschaft zurückkehren. Dann ist die nächste Mannschaft an der Reihe.",
+    "categories": [
+        "bewegungsspiel",
+        "ballspiel",
+        ""
+    ],
+    "numberOfPlayers": [
+        "grossegruppe"
+    ],
+    "durationOfGame": [
+        "lang"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ],
+    "material": "Einen Ball und einen Hula Hoop Reifen."
+}

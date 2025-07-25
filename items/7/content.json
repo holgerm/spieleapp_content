@@ -1,0 +1,25 @@
+{
+    "id": "7",
+    "name": "Das Große Rennen",
+    "description": "Sucht euch einen Platz zum Rennen aus. Dann vereinbart ihr einen Start und ein Ziel. Wenn ihr Straßenkreide habt, könnt ihr Start und Ziel auch mit Kreide aufmalen. Auf ein Signal rennen alle zusammen los, so schnell sie können. Wer als Erstes ins Ziel kommt, hat gewonnen.",
+    "categories": [
+        "bewegungsspiel",
+        "einfach",
+        ""
+    ],
+    "keywords": [
+        "Wettrennen"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ]
+}

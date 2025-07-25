@@ -1,0 +1,27 @@
+{
+    "id": "30",
+    "name": "Sackhüpfen",
+    "description": "Legt eine Startlinie und eine Ziellinie fest. Dann steigen alle, die mit hüpfen wollen, jeweils in einen Sack und gehen hinter die Startlinie. Einer von euch gibt ein Startzeichen. Alle hüpfen los. Wer als erster ins Ziel hüpft, gibt das nächste Startzeichen.",
+    "categories": [
+        "Bewegungsspiel",
+        "einfach"
+    ],
+    "keywords": [
+        "Kindergeburtstag",
+        "Hüpfen"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "drinnen",
+        "draußen"
+    ],
+    "material": "Stoffsäcke"
+}

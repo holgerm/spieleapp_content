@@ -1,0 +1,27 @@
+{
+    "id": "11",
+    "name": "Essbares & Nicht-Essbares",
+    "description": "Nimm einen Ball. Die anderen Mitspieler bilden eine Reihe. Du wirfst den Ball nacheinander zu jedem in der Reihe. Nenne verschiedene Gegenstände: Tisch, Apfel, Sonne, Brot und so weiter. Wenn das Wort etwas Essbares bedeutet, soll der Spieler den Ball fangen. Wenn das Wort etwas Nicht-Essbares bedeutet, soll der Spieler den Ball wegstoßen. Wenn jemand bei einem nicht essbaren Gegenstand den Ball fängt, wird er zum Werfenden.",
+    "categories": [
+        "ballspiel",
+        "wahrnehmungsspiel",
+        ""
+    ],
+    "keywords": [
+        "Ball",
+        "Essen"
+    ],
+    "numberOfPlayers": [
+        "grossegruppe"
+    ],
+    "durationOfGame": [
+        "mittellang"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ],
+    "material": "Ball"
+}

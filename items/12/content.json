@@ -1,0 +1,33 @@
+{
+    "id": "12",
+    "name": "Frisbee-Fangen auf Zeit",
+    "description": "Stellt euch im Abstand von ungefähr 5 Metern auf. Innerhalb von 2 Minuten werft ihr einander das Frisbee zu. Es darf dabei nicht auf den Boden fallen. Zählt die Würfe. Ihr könnt den Abstand größer oder kleiner machen.",
+    "categories": [
+        "bewegungsspiel",
+        "geschicklichkeit",
+        ""
+    ],
+    "keywords": [
+        "Reaktion",
+        "schnell",
+        "Schulklassen",
+        "Warm-Up",
+        "Kindergeburtstag",
+        "Spielaktion",
+        "laut",
+        "Rekorde"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "mittellang"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ],
+    "material": "Frisbee"
+}

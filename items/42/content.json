@@ -1,0 +1,28 @@
+{
+    "id": "42",
+    "name": "Völkerball",
+    "description": "Zuerst wird das Spielfeld 18 m x 5 m mit Kreide oder anderen Markierungen eingegrenzt. Das Spielfeld ist durch eine Mittellinie geteilt. Es werden zwei Mannschaften gebildet.\n\nJede Mannschaft stellt sich auf eine Hälfte des Spielfeldes. Es wird aus jeder Mannschaft ein Werfer ausgesucht. Die Werfer stellen sich hinter dem gegnerischen Spielfeld auf. \nEine Mannschaft bekommt den Ball und versucht, einen aus der gegnerischen Mannschaft zu treffen. Wer getroffen wurde, muss das Spielfeld verlassen und sich hinter das Spielfeld der gegnerischen Mannschaft stellen. Von dort aus darf man ebenso versuchen die Gegner abzuschießen. Wem es gelingt den Ball zu fangen, bleibt im Spielfeld. Gibt es nur noch eine Mannschaft habt ihr alle gewonnen.",
+    "categories": [
+        "ballspiel",
+        "bewegungsspiel",
+        "kooperationsspiel"
+    ],
+    "keywords": [
+        "Ball",
+        "werfen",
+        "ausweichen"
+    ],
+    "numberOfPlayers": [
+        "grossegruppe"
+    ],
+    "durationOfGame": [
+        "lang"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ],
+    "material": "Kreide, Seile Pylone zum markieren des Spielfeldes und einen weichen Ball."
+}

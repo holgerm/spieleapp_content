@@ -1,0 +1,22 @@
+{
+    "id": "14",
+    "name": "Frisbee-Quadrat",
+    "description": "Malt mit Kreide ein großes Quadrat von 2,5 m Seitenlänge auf den Boden. Unterteilt es in 9 gleich große Felder. In die Felder malt ihr, beliebig verteilt, Punktzahlen von 1 bis 3. Etwa 4 bis 5 m vom Spielfeld entfernt zieht ihr eine Startlinie. Jeder Spieler erhält ein Frisbee.\nVersucht von der Startlinie euer Frisbee so ins Zielfeld zu werfen, dass es in einem der Felder liegen bleibt. Die Punkte werden folgendermaßen gezählt: Liegt das Frisbee in einem Feld, bekommt ihr die Punktzahl dieses Feldes. Liegt das Frisbee auf einer Linie zwischen zwei Feldern, bekommt ihr die Summe der Punktzahlen von beiden Feldern. Liegt das Frisbee genau auf die Ecke von 4 angrenzenden Feldern, erhaltet ihr die Summe der Punkte von allen 4 angrenzenden Feldern! Ein Frisbee, das nicht im Spielfeld landet, zählt keinen Punkt. \nNotiert euch die Punktzahl mit Kreide auf den Boden. Dann ist der nächste Spieler dran. Nach einer vorher vereinbarten Spielrundenzahl zählt jeder seine Punkte zusammen. Gewonnen hat, wer am meisten Punkte gesammelt hat.",
+    "keywords": [
+        "Frisbee",
+        "Felder"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "mittellang"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ],
+    "material": "Frisbees und Kreide"
+}

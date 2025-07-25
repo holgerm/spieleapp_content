@@ -1,0 +1,27 @@
+{
+    "id": "13",
+    "name": "Frisbee-Golf",
+    "description": "Zuerst legt ihr drei Ziele für das Spiel an, die im Gelände schon vorhanden sind wie ein Baum, eine Mülltonne, ein Eimer oder eine Bank.\n\nLegt einen Startpunkt fest. Die Spieler werfen das Frisbee der Reihe nach in die Richtung des ersten vereinbarten Ziels. Der „Abwerfpunkt“ für den nächsten Wurf ist immer die „Landestelle“ des Frisbees vom vorherigen Wurf. Zählt die Würfe, die jeder Spieler (oder jede Mannschaft) gebraucht hat, um das Ziel zu erreichen. Der Spieler (oder die Mannschaft), die die wenigsten Würfe benötigt hat, hat gewonnen. Dann wird die nächste Bahn festgelegt.",
+    "categories": [
+        "bewegungsspiel",
+        "geschicklichkeit",
+        ""
+    ],
+    "keywords": [
+        "Frisbee",
+        "Golf"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "mittellang"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ],
+    "material": "Frisbee"
+}

@@ -1,0 +1,27 @@
+{
+    "id": "33",
+    "name": "Seilspringen",
+    "description": "Beim Seilspringen kann entweder jeder von euch ein kurzes Springseil nehmen und ihr springt so lange wie ihr könnt.\nOder zwei von euch nehmen ein langes Seil und schwingen es in gleichmäßigen großen Kreisen. \nEiner springt hinein und ihr sagt alle einen der Springreime auf. Ein Beispiel: Teddybär, Teddybär, dreh dich um: im Sprung eine Drehung machen, Teddybär, Teddybär, mach dich krumm: in die Hocke gehen, Teddybär, Teddybär, bau ein Haus: mit Händen über dem Kopf ein Dach formen, Teddybär, Teddybär, geh nach Haus: hinausspringen. \nIhr könnt auch erst mal unter dem Seil durchlaufen als brüllender Löwe oder als Katze usw.",
+    "categories": [
+        "Bewegungsspiel"
+    ],
+    "keywords": [
+        "Seil",
+        "hüpfen",
+        "springen"
+    ],
+    "numberOfPlayers": [
+        "einzelspieler",
+        "kleingruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ],
+    "material": "kleine Springseile und ein langes Springseil"
+}

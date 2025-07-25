@@ -1,0 +1,27 @@
+{
+    "id": "18",
+    "name": "Hochzeitstorte",
+    "description": "Zeichne eine mehrstöckige Hochzeitstorte auf den Boden: Fünf Rechtecke übereinander, die nach oben hin immer kleiner werden. \nIn die Tortenebenen malst du Punktzahlen ein: 1 für die unterste Ebene, 2 für die nächste, 3 für die dritte, 5 für die Vierte und 10 in der obersten kleinsten Ebene. Auf die oberste Ebene malst du brennende Kerzen. \nIm Abstand von etwa 2 m von der Torte malst du die Startlinie. \nDie Mitspieler bekommen jeweils 3 Murmeln.\n\nSpielbeschreibung:\nZiel ist es, von der Startlinie aus in die Torte zu murmeln und dabei ein Feld mit möglichst vielen Punkten zu treffen. Doch Achtung: rollt die Murmel durch die Kerzen, so ist sie “verbrannt”, und wird aus dem Spiel genommen. Das Spiel wird in 3 Durchgängen gespielt. Jeder Spieler darf pro Durchgang einmal versuchen, seine 3 Murmeln nacheinander möglichst gut auf der Torte zu platzieren.",
+    "categories": [
+        "geschicklichkeit"
+    ],
+    "keywords": [
+        "Torte",
+        "Kuchen",
+        "Kreide",
+        "Murmeln"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "mittellang"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ],
+    "material": "Kreide und Murmeln."
+}

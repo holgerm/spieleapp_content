@@ -1,0 +1,22 @@
+{
+    "id": "21",
+    "name": "Katz und Maus",
+    "description": "Bildet einen Kreis und haltet euch an den Händen. \nEine Person steht mitten im Kreis - das ist die Maus. Die andere steht außerhalb des Kreises - das ist die Katze. Die Katze versucht die Maus zu fangen. Alle die im Kreis stehen, versuchen das zu verhindern. Dabei rücken sie dicht zusammen oder nehmen die Arme runter. Aber einander loslassen dürfen sie nicht.",
+    "categories": [
+        "bewegungsspiel",
+        "kooperationsspiel",
+        ""
+    ],
+    "numberOfPlayers": [
+        "grossegruppe"
+    ],
+    "durationOfGame": [
+        "mittellang"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ]
+}

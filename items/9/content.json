@@ -1,0 +1,31 @@
+{
+    "id": "9",
+    "name": "Drei Dinge verändern",
+    "description": "Geht zu zweit zusammen. Schaut euch genau an. \nDanach dreht ihr euch um, so dass ihr Rücken an Rücken steht. Jeder ändert dann für sich 3 Dinge an seinem Äußeren. Z. B. Hosenbein hochkrempeln oder Uhr abnehmen oder Haare hochstecken. \nWenn ihr beide fertig seid, dreht euch wieder zueinander und versucht herauszufinden was sich verändert hat. Wenn es zu schwer ist, gebt euch einen Tipp.",
+    "categories": [
+        "wahrnehmungsspiel",
+        "kennenlernen",
+        "ratespiel"
+    ],
+    "keywords": [
+        "Aufmerksamkeit",
+        "Ideen",
+        "ins Gespräch kommen",
+        "Warm-Up",
+        "Teambilding"
+    ],
+    "numberOfPlayers": [
+        "grossegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "weather": [
+        "regen",
+        "sonne"
+    ],
+    "locations": [
+        "draussen",
+        "drinnen"
+    ]
+}

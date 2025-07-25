@@ -1,0 +1,26 @@
+{
+    "id": "31",
+    "name": "Schlafmütze",
+    "description": "Ein Spielfeld wird markiert, damit der Raum begrenzt ist, in dem gefangen wird. Alle legen sich auf den Boden, machen die Augen zu und tun so, als würden sie schlafen. Eine Person bleibt „wach“. Sie sucht sich zwei Spielende aus. Diese Personen sind zwei Schlafmützen. Ganz leise weckt die anleitende Person alle Spielenden auf. Nur die Schlafmützen bleiben liegen.\n\nWenn alle aufgeweckt sind, rufen sie auf drei: „Schlafmützen“. Die Schlafmützen stehen auf und versuchen, jemanden zu fangen. Wenn die zwei Schlafmützen zwei Spielende gefangen haben geht das Spiel von vorne los.",
+    "categories": [
+        "bewegungsspiel",
+        "einfach",
+        ""
+    ],
+    "keywords": [
+        "Fangen",
+        "schlafen"
+    ],
+    "numberOfPlayers": [
+        "grossegruppe"
+    ],
+    "durationOfGame": [
+        "mittellang"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "37",
+    "name": "Tee-Ball",
+    "description": "Ihr teilt euch in zwei Mannschaften auf. Dann markiert ihr zwei Felder, in die sich jeweils eine Mannschaft stellt. Die Spielenden der einen Mannschaft versuchen die der anderen Mannschaft abzuwerfen (also mit dem Ball zu treffen). Wenn du abgeworfen wirst, musst du aus dem Spielfeld rausgehen. Wenn deine Mannschaft im nächsten Wurf den Spielenden trifft, der dich abgeworfen hat, kannst du wieder ins Spielfeld.\nDamit das Spiel noch aufregender wird, kann man nach etwa fünf Minuten noch einen zweiten Ball ins Spielfeld nehmen.\nWenn in einer Mannschaft alle abgeworfen sind, dann hat die andere Mannschaft gewonnen.",
+    "categories": [
+        "ballspiel",
+        "bewegungsspiel",
+        "wahrnehmungsspiel"
+    ],
+    "keywords": [
+        "abwerfen",
+        "merken"
+    ],
+    "numberOfPlayers": [
+        "grossegruppe"
+    ],
+    "durationOfGame": [
+        "mittellang"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ],
+    "material": "Weiche Bälle."
+}

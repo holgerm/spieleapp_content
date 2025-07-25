@@ -1,0 +1,24 @@
+{
+    "id": "8",
+    "name": "Der-Die-Das",
+    "description": "Du nennst ein Namenwort (Nomen) ohne Begleiter, zum Beispiel „Korb“. Die anderen müssen raten, welchen Begleiter (Artikel) (der, die, das) dieses Wort hat, also der Korb. Wer ihn als erstes richtig erraten hat, darf sich das nächste Wort aussuchen.",
+    "categories": [
+        "ratespiel",
+        "sonstige_spielform",
+        ""
+    ],
+    "keywords": [
+        "Artikel",
+        "Reisespiel"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "locations": [
+        "drinnen",
+        "draußen"
+    ]
+}

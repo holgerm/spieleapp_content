@@ -1,0 +1,29 @@
+{
+    "id": "35",
+    "name": "Sortierspiel",
+    "description": "Die Gruppe sortiert sich nach unterschiedlichen Kriterien in einer Reihe: z. B. Alter, Größe, alphabetisch nach Namen, Schuhgröße, etc.\nAls zweite Stufe kann man die Gruppe sich als nächstes sortieren lassen, ohne dabei zu reden.",
+    "categories": [
+        "kooperationsspiel",
+        "kennenlernen",
+        "einfach"
+    ],
+    "keywords": [
+        "anordnen",
+        "Reihe",
+        "sortieren"
+    ],
+    "numberOfPlayers": [
+        "grossegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "weather": [
+        "sls.spiele.sonne",
+        "sls.spiele.regen"
+    ],
+    "locations": [
+        "draussen",
+        "sls.spieledrinnen"
+    ]
+}

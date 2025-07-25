@@ -1,0 +1,28 @@
+{
+    "id": "28",
+    "name": "Murmelhaus",
+    "description": "Gestalte zuerst deine Schachtel schön. Du kannst sie bunt bemalen, mit Klebefolie oder mit buntem Papier bekleben. Danach zeichne mit Bleistift ein paar Tore in verschiedenen Größen auf. Die können verschiedene Formen annehmen: Rund, Quadratisch, Eckig, in Herz- oder Blumenform. Wenn du fertig bist, schneide die Tore aus und male Punkte über die Tore. Das kleinste Tor bekommt die höchste Punktzahl, das größte Tor die niedrigste. Jetzt ist dein Murmelhaus fertig!\n\nIhr setzt euch circa 2 Meter vom Murmelhaus entfernt. Der erste Spieler versucht, drei Murmeln durch die Tore zu rollen und die Punkte zu sammeln. Dann ist der nächste dran. Die erzielten Punkte schreibt ihr auf. Am Ende der Runde zählt ihr die Punkte zusammen.",
+    "categories": [
+        "bauspiel",
+        "geschicklichkeit",
+        ""
+    ],
+    "keywords": [
+        "Basteln",
+        "kreativ",
+        "Spielaktion"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "lang"
+    ],
+    "weather": [
+        "regen"
+    ],
+    "locations": [
+        "drinnen"
+    ],
+    "material": "Murmeln, Pappschachtel, bunte Papiere, Tesa oder Kreppklebeband, Buntstifte, Schere, Dekomaterial"
+}

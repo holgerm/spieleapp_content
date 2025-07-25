@@ -1,0 +1,28 @@
+{
+    "id": "44",
+    "name": "Wett-Werfen",
+    "description": "Ein Stock wird an den Start gelegt, der zweite Stock als Ziel etwas weiter weg. Jetzt versuchen alle, nacheinander vom Start aus den Zielstock mit einem Ball zu treffen. Vorher macht ihr aus, wofür es wie viele Punkte gibt, zum Beispiel: \nGenau auf das Ziel treffen: 20 Punkte, \nvor das Ziel treffen: 5 Punkte, \nüber das Ziel treffen: 10 Punkte.\nIhr spielt so viele Runden, wie ihr Lust habt, und dann werden die Punkte zusammen gezählt.",
+    "categories": [
+        "ballspiel",
+        "bewegungsspiel",
+        "einfach"
+    ],
+    "keywords": [
+        "Stock",
+        "werfen",
+        "zielen"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ],
+    "material": "Zwei Stöcke und ein Ball."
+}

@@ -1,0 +1,28 @@
+{
+    "id": "16",
+    "name": "Hamsterspiel",
+    "description": "Ihr malt einen Kreis mit Kreide auf den Boden oder zieht den Kreis mit einem Stöckchen. In den Kreis legt ihr viele Murmeln oder kleine Kieselsteine. Alle hocken um den Kreis. Einer von euch dreht sich um und zählt schnell und laut bis 5. In der Zeit versuchen die anderen so viele Steinchen wie möglich in die Hand zu nehmen. Bei 5 dreht sich der Zähler um. Wem jetzt Steinchen aus der Hand kullern, darf sie nicht mehr aufheben. Es wird gezählt, wer am meisten Steinchen hat. Wer gewonnen hat darf als nächstes zählen.",
+    "categories": [
+        "geschicklichkeit",
+        "einfach",
+        ""
+    ],
+    "keywords": [
+        "sammeln",
+        "Murmel",
+        "Kieselsteine"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ],
+    "material": "Murmeln oder Kieselsteine."
+}

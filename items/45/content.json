@@ -1,0 +1,26 @@
+{
+    "id": "45",
+    "name": "Wettrennen",
+    "description": "Zuerst legt ihr eine Strecke mit Start und Ziel fest, auf der das Wettrennen stattfinden soll. Nun stellt ihr euch an den Startpunkt und lauft alle gleichzeitig los. Wer als erstes am Ziel ankommt hat gewonnen.",
+    "categories": [
+        "bewegungsspiel",
+        "einfach",
+        ""
+    ],
+    "keywords": [
+        "Rennen",
+        "laufen"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ]
+}

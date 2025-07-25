@@ -1,0 +1,27 @@
+{
+    "id": "22",
+    "name": "Keine Chance!",
+    "description": "Auf den Boden malt ihr 14 Kästchen (immer 2 nebeneinander), wie auf dem Bild. In 11 Kästchen schreibst du positive Punktwerte (z. B. +1). In die übrigen 3 kommen negative Werte (z. B. -4) oder die Zahl 0. Etwa 2 Meter vom Spielfeld entfernt mal ihr die Startlinie auf.\nAbwechselnd rollen die Spieler ihre Murmeln von der Startlinie in die Kästchen und rechnen ihre Punkte zusammen. Wer die meisten Punkte hat, darf in der nächsten Runde beginnen. Wenn es keinen Gewinner gibt, beginnt der jüngste Mitspieler. Ihr könnt euch am Spielanfang einigen, wie viele Runden ihr spielt. Derjenige, der am Spielende die meisten Punkte hat, gewinnt.",
+    "categories": [
+        "geschicklichkeit",
+        "",
+        ""
+    ],
+    "keywords": [
+        "Murmeln",
+        "Kästchen"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ],
+    "material": "Einen flachen Boden und Kreide."
+}

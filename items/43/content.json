@@ -1,0 +1,26 @@
+{
+    "id": "43",
+    "name": "Wer hat Angst...?",
+    "description": "Ihr müsst ein Spielfeld abstecken. Auf der einen Seite steht der große Bär. Alle anderen stehen auf der anderen Seite. Der Bär ruft: Wer hat Angst vorm großen Bär?“ Die anderen rufen zurück: „Niemand!“ Der große Bär ruft: „Wenn er aber kommt?“ Antwort der Gruppe: „Dann laufen wir davon!“ Sie laufen im Spielfeld auf die andere Seite. Der große Bär versucht, sie zu fangen. Wer gefangen ist, kommt auf die Seite vom großen Bär und hilft mit, andere zu fangen. Das Spiel wird solange gespielt, bis nur noch 1 Person übrig ist. Diese wird neuer Bär.",
+    "categories": [
+        "bewegungsspiel",
+        "einfach",
+        ""
+    ],
+    "keywords": [
+        "laufen",
+        "fangen"
+    ],
+    "numberOfPlayers": [
+        "grossegruppe"
+    ],
+    "durationOfGame": [
+        "mittellang"
+    ],
+    "weather": [
+        "sonne"
+    ],
+    "locations": [
+        "draussen"
+    ]
+}

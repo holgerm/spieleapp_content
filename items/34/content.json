@@ -1,0 +1,29 @@
+{
+    "id": "34",
+    "name": "Simon sagt",
+    "description": "Einer von euch ist der Ansager. Er oder sie stellt sich vor die anderen Kinder und kann Kommandos geben, die die anderen befolgen sollen. Aber Achtung: der Ansager muss immer dazu sagen: „Simon sagt“ damit das Kommando gilt. Auf das Kommando „Simon sagt: Alle hüpfen!“ sollen wirklich alle hüpfen. Auf das Kommando „Alle hüpfen“ (ohne „Simon sagt“ davor) sollt ihr nicht reagieren! Wer es falsch macht, geht an den Spielrand und macht dort alle Bewegungen mit. Wer als letzter übrig bleibt, wird neuer Ansager.",
+    "categories": [
+        "wahrnehmungsspiel",
+        "bewegungsspiel",
+        "einfach"
+    ],
+    "keywords": [
+        "Simon says",
+        "Reaktion",
+        "Aufpassen"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "weather": [
+        "slsspiel.sonne",
+        "sls.spieleregen"
+    ],
+    "locations": [
+        "drinnen",
+        "draußen"
+    ]
+}

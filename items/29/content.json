@@ -1,0 +1,18 @@
+{
+    "id": "29",
+    "name": "Pantomime",
+    "description": "Ihr sucht euch ein Wort aus und spielt das Wort den anderen pantomimisch vor: Ihr dürft dabei nicht sprechen, sondern nur Bewegungen machen, mit dem ganzen Körper und dem Gesicht. Nachdem ihr das Wort vorgespielt habt, raten die anderen Mitspielenden was es war. Wer es erraten hat ist als nächstes dran.",
+    "categories": [
+        "ratespiel"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "kurz"
+    ],
+    "locations": [
+        "drinnen",
+        "draußen"
+    ]
+}

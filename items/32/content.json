@@ -1,0 +1,23 @@
+{
+    "id": "32",
+    "name": "Schuh-Salat",
+    "description": "Alle ziehen ihre Schuhe aus und legen sie gut vermischt in die Mitte auf den Boden. Dann kommt eine Decke darüber. Jetzt darf jeder nacheinander einen Schuh aus der Mitte ziehen. Wenn es dein eigener Schuh ist, darfst du ihn anziehen. Wenn der Schuh von einem anderen Kind ist, darfst du raten, wem der Schuh gehört und ihn dann dem richtigen Kind geben. Hast du falsch geraten kommt der Schuh wieder unter die Decke. Wenn alle wieder ihre Schuhe an haben ist das Spiel zu Ende.",
+    "categories": [
+        "ratespiel"
+    ],
+    "keywords": [
+        "Schuhe",
+        "raten"
+    ],
+    "numberOfPlayers": [
+        "kleinegruppe"
+    ],
+    "durationOfGame": [
+        "mittellang"
+    ],
+    "locations": [
+        "drinnen",
+        "draußen"
+    ],
+    "material": "Decke"
+}
