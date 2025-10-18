@@ -1,0 +1,25 @@
+{
+    "id": "48",
+    "name": "Testspiel",
+    "description": "Dieser Text ist die Kurzbescheibung des Testspiels. Wir probieren auch mal \" Anfühungszeichen aus, auch einfache ' oder diese rückwärts gerichteten ` und die, die auf der Tastatur darunter liegen ´. Man kann offenbar ekinen Zeilenumbruch eingeben, aber das liegt vielleicht auch nur an Excel.\n\nAh habe gemerkt, dass ich auf dem Mac \"Option\" + \"Return\" drücken muss für einen Zeilenumbruch in der Zelle.\n\nBei Wetter gebe ich mal gar nichts ein, um das zu testen.\n\nBei Spieltypen ist der dritte Typ, das Wahrnehmungsspiel mit einem Semikolon von den anderen abgetrennt. Davor ist ein Komma benutzt.",
+    "categories": [
+        "bewegungsspiel",
+        "musikspiel\";\"slsspiele.wahrnehmungsspiel"
+    ],
+    "keywords": [
+        "Musik",
+        "Kleingruppenbildung",
+        "Reaktion"
+    ],
+    "numberOfPlayers": [
+        "grossegruppe"
+    ],
+    "durationOfGame": [
+        "mittellang"
+    ],
+    "locations": [
+        "draussen",
+        "drinnen"
+    ],
+    "material": "Handy mit Playlist, Musikanlage"
+}

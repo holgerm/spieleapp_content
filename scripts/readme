@@ -1,0 +1,12 @@
+To create game descritions from excel files or generate an index of game descritions do this:
+
+- goto project dir (where items, xlsx and cripts forlders are in)
+- source venv/bin/activate
+- goto scripts dir in spieleapp_content
+- python scripts/xlsx_to_json.py xlsx/Test.xlsx 48
+
+To generate the index:
+- goto project dir (where items, xlsx and cripts forlders are in)
+- source venv/bin/activate
+- goto scripts dir in spieleapp_content
+- python scripts/generate_index.py .
